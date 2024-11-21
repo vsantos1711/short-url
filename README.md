@@ -1,4 +1,4 @@
-# 🌐 URL Shortener Serverless
+# 🍊 URL Shortener Serverless
 
 ![Stack](https://raw.githubusercontent.com/vsantos1711/url-shortener-serverless/main/assets/tech.png)
 
