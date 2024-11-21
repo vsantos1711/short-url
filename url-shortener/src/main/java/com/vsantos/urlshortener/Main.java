@@ -1,4 +1,4 @@
-package com.vsantos.shortenerurl;
+package com.vsantos.urlshortener;
 
 import java.util.HashMap;
 import java.util.Map;

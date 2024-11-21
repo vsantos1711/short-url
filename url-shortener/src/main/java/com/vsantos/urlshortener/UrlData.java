@@ -1,4 +1,4 @@
-package com.vsantos.shortenerurl;
+package com.vsantos.urlshortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
