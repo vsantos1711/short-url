@@ -1,6 +1,6 @@
 # 🍊 URL Shortener Serverless
 
-![Stack](https://raw.githubusercontent.com/vsantos1711/url-shortener-serverless/main/assets/tech.png)
+![Stack](https://raw.githubusercontent.com/vsantos1711/url-shortener-serverless/main/public/tech.png)
 
 ## Description
 
@@ -18,7 +18,7 @@ This project demonstrates how to build a serverless URL shortener using AWS Lamb
 
 ## System Architecture
 
-![Diagram](https://raw.githubusercontent.com/vsantos1711/url-shortener-serverless/main/assets/diagram.png)
+![Diagram](https://raw.githubusercontent.com/vsantos1711/url-shortener-serverless/main/public/diagram.png)
 
 ## To-do
 
